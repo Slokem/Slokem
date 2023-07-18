@@ -1,11 +1,11 @@
-# Introduction 
+## Introduction 
 I am Vincent, welcome to my profile 👋 
 > I am a **Senior Data Scientist** with a focus on **Analytics Engineering** and **MLOps**. I have also expertise in **Data Engineering** and **DevOps** skills related to architecture design, implementation on cloud services and operation of Data Warehousing, Data pipelines and Data Catalog.
 > 
 I have a **continuous improvement mindset** with a focus on process mapping and process performance. I am a team-player, used to develop solutions using **Software development** collaborative best practices for **version control**, adaptive approaches of **scrum methodologies** applying an **Agile philosophy** on how to deliver value.
 I am passionate about fostering Data Culture within an organization to enable people to take **data-driven decisions**.
 
-#  Tech Stack 
+##  Tech Stack 
 Find below an overall view of the technologies and tools I use in my daily tasks.
 
 <!-- TECH STACK LIST - START --> 
@@ -26,28 +26,28 @@ Find below an overall view of the technologies and tools I use in my daily tasks
 <img src="https://www.vectorlogo.zone/logos/rancher/rancher-icon.svg" title="Rancher"  alt="Rancher" width="40" height="40"/>
 <!-- TECH STACK LIST - END--> 
 
-## Programming languages
+### Programming languages
 > - Linux Bash scripting 🐧  
 > - SQL (SnowSQL ❄, PostgreSQL 🐘, MySQL 🐬)  
 > - Python 🐍  
 > - 🌱 Currently learning Rust 🦀  
 
-## Data Sciences toolkit
+### Data Sciences toolkit
 |Data Analysis |Data Vizualisation|Data Science and AI|MLOps|
 |-|-|-|-|
 |Jupyter <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="15" height ="15"/>, Pandas <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="15" height ="15"/>, Numpy <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="15" height ="15"/>,  Scipy <img src="https://scipy.org/images/logo.svg" title="Scipy" alt="Scipy" width="15" height ="15"/> |Seaborn, Matplotlib, Dash Plotly,  Power BI and DAX|Statsmodels, Sklearn, Tensorflow, PyTorch, OpenCV <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="15" height ="15"/> |MLflow, Prefect|
 
-## Data Engineering toolkit
+### Data Engineering toolkit
 |Data warehouse and ETL|Workflow orchestration tool|Data Catalog|Cloud services|
 |-|-|-|-|
 |Snowflake, Big Query, Fivetran, DBT|Apache Airflow, Prefect|OpenMedatada|AWS, Microsof Azure AD, GCP|
 
-## Devops toolkit
+### Devops toolkit
 |CI/CD|Containerization|Microservices|
 |-|-|-|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="15" height="15"/> Github Actions|Docker, Rancher, Jfrog Artifactory, ECR|Kubernetes, EFK |
 
-# Github Stats
+## Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-pi-one-51.vercel.app/api?username=slokem&count_private=true&hide=issues&hide_title=true&show_icons=true&locale=en&theme=buefy&hide_border=true" alt="Vincent's Github stats" /></a>
 
 <!-- card for 
