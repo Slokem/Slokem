@@ -125,14 +125,44 @@ Find below an overall view of the technologies and tools I use in my coding jour
 -->
 
 ### Devops toolkit
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>CI/CD</b></td>
+      <td><b>Containerization</b></td>
+      <td><b>Microservices</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      </td>
+      <td>
+        <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img alt="Rancher" src="https://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white" />
+        <img alt="JFrog" src="https://img.shields.io/badge/-JFrog-41BF47?style=flat-square&logo=jfrog&logoColor=white" />
+        <img alt="Amazon ECS" src="https://img.shields.io/badge/-Amazon_ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white" />
+      </td>
+      <td>
+        <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<!-- MARKDOWN EQUIVALENT
 |CI/CD|Containerization|Microservices|
 |-|-|-|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="15" height="15"/> Github Actions|Docker, Rancher, Jfrog Artifactory, ECR|Kubernetes, EFK |
+| Github Actions|Docker, Rancher, Jfrog Artifactory, ECR|Kubernetes, EFK |
+-->
+
 
 ## Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-pi-one-51.vercel.app/api?username=slokem&count_private=true&hide=issues&hide_title=true&show_icons=true&locale=en&theme=buefy&hide_border=true" alt="Vincent's Github stats" /></a>
 
-<!-- card for 
+<!-- card for language usage
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-pi-one-51.vercel.app/api/top-langs?username=slokem&&count_private=true&show_icons=true&layout=compact&theme=buefy&hide_title=true&hide_border=true&langs_count=6" alt="Most used languages" /></a> |
 -->
 
@@ -160,15 +190,19 @@ Find below an overall view of the technologies and tools I use in my coding jour
 
 <!-- SHIELD BADGE LIST - START  -->
 <!-- using the website https://shields.io/badges/static-badge in combinaison with https://simpleicons.org/ -->
-<!--
+
 <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
 <img alt="Scipy" src="https://img.shields.io/badge/-Scipy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
 
+<img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-6BA1AE?style=flat-square&logo=python&logoColor=white" />
+<img alt="Matplotlib" src="https://img.shields.io/badge/-matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+<img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 <img alt="Dash Plotly" src="https://img.shields.io/badge/-Dash_Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
 <img alt="Power BI & DAX" src="https://img.shields.io/badge/-Power_BI_&_DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 
+<img alt="statsmodel" src="https://img.shields.io/badge/-statsmodel-4051B5?style=flat-square&logo=python&logoColor=white" />
 <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
@@ -178,18 +212,25 @@ Find below an overall view of the technologies and tools I use in my coding jour
 <img alt="Prefect" src="https://img.shields.io/badge/-Prefect-024DFD?style=flat-square&logo=prefect&logoColor=white" />
 
 <img alt="Snowflake" src="https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
-<img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />        
+<img alt="BigQuery" src="https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img alt="Fivetran" src="https://img.shields.io/badge/-Fivetran-007FFF?style=flat-square" />
+<img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
 
 <img alt="Apache Airflow" src="https://img.shields.io/badge/-Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
 <img alt="Prefect" src="https://img.shields.io/badge/-Prefect-024DFD?style=flat-square&logo=prefect&logoColor=white" />
 
-<img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-<img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img alt="GCP" src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img alt="OpenMetadata" src="https://img.shields.io/badge/-OpenMetadata-7147E8?style=flat-square" />
+
+<img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img alt="Rancher" src="https://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white" />
+<img alt="JFrog" src="https://img.shields.io/badge/-JFrog-41BF47?style=flat-square&logo=jfrog&logoColor=white" />
+<img alt="Amazon ECS" src="https://img.shields.io/badge/-Amazon_ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white" />
+
+<img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 
 
-<img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
--->
 <!-- SHIELD BADGE LIST - END -->
 
 
