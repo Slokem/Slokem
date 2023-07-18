@@ -10,6 +10,7 @@ I am passionate about **fostering Data Culture** within an organization to enabl
 Find below an overall view of the technologies and tools I use in my coding journey!
 
 <!-- TECH STACK LIST - START --> 
+<!--
 [<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height ="40"/>][Linux]&nbsp;
 [<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height ="40"/>][Python]&nbsp;
 [<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height ="40"/>][Rust]&nbsp;
@@ -25,6 +26,7 @@ Find below an overall view of the technologies and tools I use in my coding jour
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height ="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/rancher/rancher-icon.svg" title="Rancher"  alt="Rancher" width="40" height="40"/>
+-->
 <!-- TECH STACK LIST - END--> 
 
 ### Programming languages
@@ -53,17 +55,18 @@ Find below an overall view of the technologies and tools I use in my coding jour
         <img alt="Scipy" src="https://img.shields.io/badge/-Scipy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
       </td>
       <td>
-        Seaborn,
-        Matplotlib,
+        <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-6BA1AE?style=flat-square&logo=python&logoColor=white" />
+        <img alt="Matplotlib" src="https://img.shields.io/badge/-matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+        <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
         <img alt="Dash Plotly" src="https://img.shields.io/badge/-Dash_Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
         <img alt="Power BI & DAX" src="https://img.shields.io/badge/-Power_BI_&_DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
       </td>
       <td>
+        <img alt="statsmodel" src="https://img.shields.io/badge/-statsmodel-4051B5?style=flat-square&logo=python&logoColor=white" />
         <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
         <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
         <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" />,
-        Statsmodel
+        <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" />
       </td>
       <td>
         <img alt="ML flow" src="https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
