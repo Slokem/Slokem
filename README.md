@@ -10,9 +10,9 @@ I am Vincent, a Senior Data Scientist with a focus on Analytics Engineering and 
 - 🌱 Currently learning Rust 🦀
 
 ## Data Sciences
-|Data Analysis and Vizualisation|Data Science and AI|MLOps|
-|-|-|-|
-|Jupyter, Pandas, Numpy, Scipy, Seaborn, Matplotlib, Dash Plotly, Power BI and DAX|Statsmodels, Sklearn, Tensorflow, PyTorch, OpenCV, |MLflow, Prefect|
+|Data Analysis |Data Vizualisation|Data Science and AI|MLOps|
+|-|-|-|-|
+|Jupyter, Pandas, Numpy, Scipy |Seaborn, Matplotlib, Dash Plotly,  Power BI and DAX|Statsmodels, Sklearn, Tensorflow, PyTorch, OpenCV |MLflow, Prefect|
 
 ## Data Engineering
 |Data warehouse and ETL|Workflow orchestration tool|Data Catalog|Cloud services|
