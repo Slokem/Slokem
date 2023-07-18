@@ -35,7 +35,7 @@ Find below an overall view of the technologies and tools I use in my daily tasks
 ### Data Sciences toolkit
 |Data Analysis |Data Vizualisation|Data Science and AI|MLOps|
 |-|-|-|-|
-|<img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /> <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img alt="Scipy" src="https://img.shields.io/badge/-Scipy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" /> |Seaborn, Matplotlib, Dash Plotly,  Power BI and DAX|Statsmodels, Sklearn, Tensorflow, PyTorch, OpenCV <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="15" height ="15"/> |MLflow, Prefect|
+|<img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /> <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img alt="Scipy" src="https://img.shields.io/badge/-Scipy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" /> |Seaborn, Matplotlib, <img alt="Dash Plotly" src="https://img.shields.io/badge/-Dash_Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" /> <img alt="Power BI & DAX" src="https://img.shields.io/badge/-Power_BI_&_DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" />|Statsmodels, <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" /> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" />|<img alt="ML flow" src="https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" /><img alt="Prefect" src="https://img.shields.io/badge/-Prefect-024DFD?style=flat-square&logo=prefect&logoColor=white" />|
 
 ### Data Engineering toolkit
 |Data warehouse and ETL|Workflow orchestration tool|Data Catalog|Cloud services|
@@ -76,8 +76,19 @@ Find below an overall view of the technologies and tools I use in my daily tasks
 </div>
 -->
 
+<!-- SHIELD BADGE LIST - START -->
+<!--
+<img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" />
+<img alt="ML flow" src="https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+<img alt="Prefect" src="https://img.shields.io/badge/-Prefect-024DFD?style=flat-square&logo=prefect&logoColor=white" />
+-->
+<!-- SHIELD BADGE LIST - END -->
 
-<!-- LINK LIST - START -->
+
+<!-- WEBSITE LINK LIST - START -->
 
 <!-- Programming languages -->
 [Linux]: https://www.linux.org/
@@ -98,6 +109,8 @@ Find below an overall view of the technologies and tools I use in my daily tasks
 [Seaborn]: https://seaborn.pydata.org/
 [Plotly]:
 [PowerBI]: 
+
+
 
 
 [Snowflake]: https://www.snowflake.com/en/
