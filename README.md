@@ -1,12 +1,13 @@
-## Introduction 
-I am Vincent, welcome to my profile 👋 
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you,
+
+I am Vincent, welcome to my page 👋 
 > I am a **Senior Data Scientist** with a focus on **Analytics Engineering** and **MLOps**. I have also expertise in **Data Engineering** and **DevOps** skills related to architecture design, implementation on cloud services and operation of Data Warehousing, Data pipelines and Data Catalog.
 > 
-I have a **continuous improvement mindset** with a focus on process mapping and process performance. I am a team-player, used to develop solutions using **Software development** collaborative best practices for **version control**, adaptive approaches of **scrum methodologies** applying an **Agile philosophy** on how to deliver value.
-I am passionate about fostering Data Culture within an organization to enable people to take **data-driven decisions**.
+I have a **continuous improvement mindset** with a focus on process mapping and process performance. I am a team-playe using **Software development** collaborative best practices for **version control**, adaptive approaches of **scrum methodologies** applying an **Agile philosophy** on how to deliver value.
+I am passionate about **fostering Data Culture** within an organization to enable people to take **data-driven decisions**.
 
 ##  Tech Stack 
-Find below an overall view of the technologies and tools I use in my daily tasks.
+Find below an overall view of the technologies and tools I use in my coding journey!
 
 <!-- TECH STACK LIST - START --> 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height ="40"/>][Linux]&nbsp;
@@ -80,9 +81,45 @@ Find below an overall view of the technologies and tools I use in my daily tasks
 -->
 
 ### Data Engineering toolkit
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Data warehouse and ETL</b></td>
+      <td><b>Workflow orchestration tool</b></td>
+      <td><b>Data Catalog</b></td>
+      <td><b>Cloud services</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img alt="Snowflake" src="https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+        , BigQuery
+        , FiveTran
+        <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+      </td>
+      <td>
+        <img alt="Apache Airflow" src="https://img.shields.io/badge/-Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+        <img alt="Prefect" src="https://img.shields.io/badge/-Prefect-024DFD?style=flat-square&logo=prefect&logoColor=white" />
+      </td>
+      <td>
+        OpenMetadata
+      </td>
+      <td>
+        <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+        <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+        <img alt="GCP" src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- MARKDOWN EQUIVALENT
 |Data warehouse and ETL|Workflow orchestration tool|Data Catalog|Cloud services|
 |-|-|-|-|
 |Snowflake, Big Query, Fivetran, DBT|Apache Airflow, Prefect|OpenMedatada|AWS, Microsof Azure AD, GCP|
+-->
 
 ### Devops toolkit
 |CI/CD|Containerization|Microservices|
@@ -118,7 +155,8 @@ Find below an overall view of the technologies and tools I use in my daily tasks
 </div>
 -->
 
-<!-- SHIELD BADGE LIST - START -->
+<!-- SHIELD BADGE LIST - START  -->
+<!-- using the website https://shields.io/badges/static-badge in combinaison with https://simpleicons.org/ -->
 <!--
 <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
@@ -135,6 +173,16 @@ Find below an overall view of the technologies and tools I use in my daily tasks
 
 <img alt="ML flow" src="https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
 <img alt="Prefect" src="https://img.shields.io/badge/-Prefect-024DFD?style=flat-square&logo=prefect&logoColor=white" />
+
+<img alt="Snowflake" src="https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+<img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />        
+
+<img alt="Apache Airflow" src="https://img.shields.io/badge/-Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+<img alt="Prefect" src="https://img.shields.io/badge/-Prefect-024DFD?style=flat-square&logo=prefect&logoColor=white" />
+
+<img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img alt="GCP" src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 
 
 <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
