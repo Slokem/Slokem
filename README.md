@@ -98,8 +98,8 @@ Find below an overall view of the technologies and tools I use in my coding jour
     <tr>
       <td>
         <img alt="Snowflake" src="https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
-        , BigQuery
-        , FiveTran
+        <img alt="BigQuery" src="https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+        <img alt="Fivetran" src="https://img.shields.io/badge/-Fivetran-007FFF?style=flat-square" />
         <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
       </td>
       <td>
@@ -107,7 +107,7 @@ Find below an overall view of the technologies and tools I use in my coding jour
         <img alt="Prefect" src="https://img.shields.io/badge/-Prefect-024DFD?style=flat-square&logo=prefect&logoColor=white" />
       </td>
       <td>
-        OpenMetadata
+        <img alt="OpenMetadata" src="https://img.shields.io/badge/-OpenMetadata-7147E8?style=flat-square" />
       </td>
       <td>
         <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
