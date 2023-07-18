@@ -3,10 +3,12 @@
 I am Vincent, welcome to my page 👋 
 > I am a **Senior Data Scientist** with a focus on **Analytics Engineering** and **MLOps**. I have also expertise in **Data Engineering** and **DevOps** skills related to architecture design, implementation on cloud services and operation of Data Warehousing, Data pipelines and Data Catalog.
 > 
-I have a **continuous improvement mindset** with a focus on process mapping and process performance. I am a team-playe using **Software development** collaborative best practices for **version control**, adaptive approaches of **scrum methodologies** applying an **Agile philosophy** on how to deliver value.
+>I have a **continuous improvement mindset** with a focus on process mapping and process performance. I am a team-playe using **Software development** collaborative best practices for **version control**, adaptive approaches of **scrum methodologies** applying an **Agile philosophy** on how to deliver value.
 I am passionate about **fostering Data Culture** within an organization to enable people to take **data-driven decisions**.
 
-##  Tech Stack 
+<br>
+
+##  🤖 Tech Stack 
 Find below an overall view of the technologies and tools I use in my coding journey!
 
 <!-- TECH STACK LIST - START --> 
@@ -158,8 +160,9 @@ Find below an overall view of the technologies and tools I use in my coding jour
 | Github Actions|Docker, Rancher, Jfrog Artifactory, ECR|Kubernetes, EFK |
 -->
 
+<br>
 
-## Github Stats
+## 🔥 Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-pi-one-51.vercel.app/api?username=slokem&count_private=true&hide=issues&hide_title=true&show_icons=true&locale=en&theme=buefy&hide_border=true" alt="Vincent's Github stats" /></a>
 
 <!-- card for language usage
@@ -167,7 +170,7 @@ Find below an overall view of the technologies and tools I use in my coding jour
 -->
 
 
-
+<!-- IMAGES LOGO SVG LIST - START  -->
 <!-- Stock of images
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -187,10 +190,12 @@ Find below an overall view of the technologies and tools I use in my coding jour
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 -->
+<!-- IMAGES LOGO SVG LIST - END  -->
+
 
 <!-- SHIELD BADGE LIST - START  -->
 <!-- using the website https://shields.io/badges/static-badge in combinaison with https://simpleicons.org/ -->
-
+<!--
 <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
@@ -229,7 +234,7 @@ Find below an overall view of the technologies and tools I use in my coding jour
 <img alt="Amazon ECS" src="https://img.shields.io/badge/-Amazon_ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white" />
 
 <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-
+-->
 
 <!-- SHIELD BADGE LIST - END -->
 
