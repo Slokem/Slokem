@@ -133,6 +133,8 @@ Find below an overall view of the technologies and tools I use in my coding jour
       <td><b>CI/CD</b></td>
       <td><b>Containerization</b></td>
       <td><b>Microservices</b></td>
+      <td><b>IaaS</b></td>
+      <td><b>Secret Management</b></td>
     </tr>
   </thead>
   <tbody>
@@ -148,6 +150,12 @@ Find below an overall view of the technologies and tools I use in my coding jour
       </td>
       <td>
         <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      </td>
+      <td>
+        <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+      </td>
+      <td>
+        <img alt="HashiCorp Vault" src="https://img.shields.io/badge/-HashiCorp_Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black" />
       </td>
     </tr>
   </tbody>
