@@ -3,7 +3,7 @@
 I am Vincent, welcome to my page 👋 
 > I am a **Senior Data Scientist** with a focus on **Analytics Engineering** and **MLOps**. I have also expertise in **Data Engineering** and **DevOps** skills related to architecture design, implementation on cloud services and operation of Data Warehousing, Data pipelines and Data Catalog.
 > 
->I have a **continuous improvement mindset** with a focus on process mapping and process performance. I am a team-playe using **Software development** collaborative best practices for **version control**, adaptive approaches of **scrum methodologies** applying an **Agile philosophy** on how to deliver value.
+>I have a **continuous improvement mindset** with a focus on process mapping and process performance. I am a team-player using **Software development** collaborative best practices for **version control**, adaptive approaches of **scrum methodologies** applying an **Agile philosophy** on how to deliver value.
 I am passionate about **fostering Data Culture** within an organization to enable people to take **data-driven decisions**.
 
 <br>
