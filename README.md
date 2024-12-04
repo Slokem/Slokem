@@ -133,7 +133,7 @@ Find below an overall view of the technologies and tools I use in my coding jour
       <td><b>CI/CD</b></td>
       <td><b>Containerization</b></td>
       <td><b>Microservices</b></td>
-      <td><b>IaaS</b></td>
+      <td><b>IaC</b></td>
       <td><b>Secret Management</b></td>
     </tr>
   </thead>
